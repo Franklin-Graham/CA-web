@@ -1,0 +1,42 @@
+.home_icon{
+margin-top:15px;
+letter-spacing:.2em;
+}
+
+.my_name{
+letter-spacing:0.1em;
+}
+.my_account{
+letter-spacing:.2em;
+}
+
+.link_fun{
+text-decoration:None;
+}
+
+.fun1{
+padding:10px;
+margin-left:150px;
+}
+.fun2{
+border:1px solid black;
+text-align:center;
+}
+
+/***Bot page ***/
+.bot_heading{
+margin-top:10px;
+}
+.code_link{
+text-decoration:None;
+}
+
+/*** content page ***/
+.content_user{
+border:1px solid pink;
+margin-left:530px;
+padding:8px;
+top:-90px;
+text-align:justify;
+font-family:Arial, sans-serif;
+}
